@@ -1,0 +1,15 @@
+.news-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.full-news-content {
+  padding: 20px;
+}
+
+.card {
+  margin: 10px;
+  width: 300px;
+}
